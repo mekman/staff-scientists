@@ -12,7 +12,7 @@ MRI
 * Everything you always wanted to know about science but were too afraid to ask :-)
 * `How to do searchlight hyperalignment with pymvpa? <FAQ/MRI/hyperalignment.html>`__
 
-MEEG
+MEG
 ---
 
 * `What can I do about the 20Hz + harmonics artifact in the MEG? <FAQ/MEG/camera_artifact.html>`__
